@@ -49,9 +49,9 @@
         }
     ],
     "formation": {
-        "eco": {
+        "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "stack": "container"
